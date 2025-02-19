@@ -5,5 +5,24 @@ This rule detects events that could be describing IPSEC NAT Traversal traffic. I
 
 **Rule type**: query
 
+**Severity**: low
+
+**Risk score**: 21
+
+**Tags**:
+
+- Tactic: Command and Control
+- Domain: Endpoint
+- Use Case: Threat Detection
+- Data Source: PAN-OS
+- Resources: Investigation Guide
+
+
+**Triage and analysis**
+
+**Investigating IPSEC NAT Traversal Port Activity**
+
+IPSEC NAT Traversal facilitates secure VPN communication across NAT devices by encapsulating IPSEC packets in UDP, typically using port 4500. While essential for legitimate encrypted traffic, adversaries exploit this to mask malicious activities, bypassing network defenses. The detection rule identifies unusual UDP traffic on port 4500, flagging potential misuse for further investigation.
+
 
 
