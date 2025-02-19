@@ -1,7 +1,5 @@
 
-
-
-
+# General
 ### True Positive (TP):
 
 - **Definition**: The test correctly identifies a positive case.
@@ -59,4 +57,43 @@
 
 
 
+
+
+# Cyber Security
+### True Positive
+
+- **Definition**: A security alert or detection that correctly identifies a real threat.
+    
+- **Example**: Your system detects and blocks a real malware attack.
+    
+
+### True Negative
+
+- **Definition**: A situation where no security alert is raised, and there are no threats.
+    
+- **Example**: Your system scans a file and correctly determines it is safe, raising no alert.
+    
+
+### False Positive
+
+- **Definition**: A security alert or detection that incorrectly identifies benign activity as a threat.
+    
+- **Example**: Your system flags a legitimate software update as malware.
+    
+
+### False Negative
+
+- **Definition**: A situation where a real threat is present, but no security alert is raised.
+    
+- **Example**: Your system fails to detect an actual malware attack.
+    
+
+### Summary Table
+
+| Term               | Definition                                       | Example                                          |
+| ------------------ | ------------------------------------------------ | ------------------------------------------------ |
+| **True Positive**  | Correctly identifying a real threat              | Detecting and blocking a real malware attack     |
+| **True Negative**  | No alert and no threat present                   | Scanning a safe file and raising no alert        |
+| **False Positive** | Incorrectly flagging benign activity as a threat | Flagging a legitimate software update as malware |
+| **False Negative** | Failing to detect a real threat                  | Missing an actual malware attack                 |
 
