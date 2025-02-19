@@ -49,7 +49,8 @@ This rule identifies potential password guessing/brute force activity from a sin
 
 
 
+## Question
 
-
+Examine the source host for derived artifacts that indicate compromise:
 
 
