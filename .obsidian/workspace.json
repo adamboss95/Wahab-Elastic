@@ -172,12 +172,12 @@
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
     "Elastic/Alerts/6. Spike in Network Traffic.md",
-    "Elastic/Alerts/7. Anomalous Windows Process Creation.md",
     "Elastic/Alerts/5. SMTP on Port 26 TCP.md",
     "Elastic/Alerts/4. Rare User Logon.md",
     "Elastic/Alerts/3. Unusual Windows Username.md",
     "Elastic/Alerts/2. IPSEC NAT Traversal Port Activity.md",
     "Elastic/Alerts/1. Privileged Account Brute Force.md",
+    "Elastic/Alerts/7. Anomalous Windows Process Creation.md",
     "Elastic/Alerts",
     "homework/True False Cases.md",
     "homework/Wireshark.md",
