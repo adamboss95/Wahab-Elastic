@@ -31,3 +31,11 @@ This rule identifies potential password guessing/brute force activity from a sin
 
 **Possible investigation steps**
 
+- Investigate the logon failure reason code and the targeted user name.
+- Prioritize the investigation if the account is critical or has administrative privileges over the domain.
+- Identify whether these attempts are coming from the internet or are internal.
+- If this activity is suspicious, contact the account owner and confirm whether they are aware of it.
+
+
+**Response and remediation**
+
