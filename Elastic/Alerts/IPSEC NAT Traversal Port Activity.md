@@ -25,4 +25,11 @@ This rule detects events that could be describing IPSEC NAT Traversal traffic. I
 IPSEC NAT Traversal facilitates secure VPN communication across NAT devices by encapsulating IPSEC packets in UDP, typically using port 4500. While essential for legitimate encrypted traffic, adversaries exploit this to mask malicious activities, bypassing network defenses. The detection rule identifies unusual UDP traffic on port 4500, flagging potential misuse for further investigation.
 
 
+**Possible investigation steps**
+
+- Review the source and destination IP addresses associated with the UDP traffic on port 4500 to determine if they are known or expected within your network environment.
+- Analyze the volume and frequency of the detected traffic to assess whether it aligns with typical IPSEC NAT Traversal usage or if it appears anomalous.
+- Check for any associated network traffic events in the same timeframe that might indicate a pattern of suspicious activity, such as unusual data transfer volumes or connections to known malicious IP addresses.
+- Investigate the endpoint or device generating the traffic to verify if it is authorized to use IPSEC NAT Traversal and if it has any history of security incidents or vulnerabilities.
+
 
