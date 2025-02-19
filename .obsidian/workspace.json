@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elastic/Privileged Account Brute Force.md",
+                "file": "Elastic/Alerts/Privileged Account Brute Force.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,9 +171,10 @@
   },
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
+    "Elastic/Alerts/IPSEC NAT Traversal Port Activity.md",
+    "Elastic/Alerts/Privileged Account Brute Force.md",
     "Elastic/Alerts",
     "homework/True False Cases.md",
-    "Elastic/Privileged Account Brute Force.md",
     "homework/Wireshark.md",
     "homework/Elastic Recording Notes.md",
     "Git Sync Repository.md",
@@ -215,7 +216,6 @@
     "extra/windows sa",
     "Windows/Images",
     "Windows/Module 2/Images",
-    "Windows/Module 4 Managing DHCP and DNS",
-    "Windows/Module 3 Active Directory Domain Services on Windows Server 2019"
+    "Windows/Module 4 Managing DHCP and DNS"
   ]
 }
