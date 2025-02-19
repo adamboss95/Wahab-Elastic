@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elastic/Alerts.md",
+                "file": "Elastic/Privileged Account Brute Force.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alerts"
+              "title": "Privileged Account Brute Force"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
+    "Elastic/Alerts",
     "homework/True False Cases.md",
-    "Elastic/Alerts.md",
+    "Elastic/Privileged Account Brute Force.md",
     "homework/Wireshark.md",
     "homework/Elastic Recording Notes.md",
     "Git Sync Repository.md",
@@ -198,7 +199,6 @@
     "homework/IOA & IOC.md",
     "homework/elastic architecture.md",
     "homework/DMZ.md",
-    "homework/Difference.md",
     "Windows/Images/Pasted image 20250218164811.png",
     "Windows/Images/Pasted image 20250217125547.png",
     "Linux/Module 8 Disk Management and Run Levels/Images/Pasted image 20250129144117.png",

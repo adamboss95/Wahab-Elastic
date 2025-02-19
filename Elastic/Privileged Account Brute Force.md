@@ -39,3 +39,17 @@ This rule identifies potential password guessing/brute force activity from a sin
 
 **Response and remediation**
 
+- Initiate the incident response process based on the outcome of the triage.
+- Isolate the source host to prevent further post-compromise behavior.
+- If the asset is exposed to the internet with RDP or other remote services available, take the necessary measures to restrict access to the asset. If not possible, limit the access via the firewall to only the needed IP addresses. Also, ensure the system uses robust authentication mechanisms and is patched regularly.
+- Investigate credential exposure on systems compromised or used by the attacker to ensure all compromised accounts are identified. Reset passwords for these accounts and other potentially compromised credentials, such as email, business systems, and web services.
+
+
+
+
+
+
+
+
+
+
