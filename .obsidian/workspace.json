@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elastic/Alerts/10. Anomalous Process For a Windows Population.md",
+                "file": "Elastic/Alerts/11. Unusual Windows Path Activity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Anomalous Process For a Windows Population"
+              "title": "11. Unusual Windows Path Activity"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/2. Window Server Introduction.md",
+                "file": "Elastic/Alerts/11. Unusual Windows Path Activity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Window Server Introduction"
+              "title": "Outline of 11. Unusual Windows Path Activity"
             }
           }
         ],
@@ -171,15 +171,16 @@
   },
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
-    "Elastic/Alerts/1. Privileged Account Brute Force.md",
     "Elastic/Alerts/10. Anomalous Process For a Windows Population.md",
+    "Elastic/Alerts/11. Unusual Windows Path Activity.md",
+    "Elastic/Alerts/3. Unusual Windows Username.md",
+    "Elastic/Alerts/1. Privileged Account Brute Force.md",
     "Elastic/Alerts/9. Multiple Alerts in Different ATT&CK Tactics on a Single Host.md",
     "Elastic/Alerts/8. Unusual Hour for a User to Logon.md",
     "Elastic/Alerts/7. Anomalous Windows Process Creation.md",
     "Elastic/Alerts/6. Spike in Network Traffic.md",
     "Elastic/Alerts/5. SMTP on Port 26 TCP.md",
     "Elastic/Alerts/4. Rare User Logon.md",
-    "Elastic/Alerts/3. Unusual Windows Username.md",
     "Elastic/Alerts/2. IPSEC NAT Traversal Port Activity.md",
     "Elastic/Alerts",
     "homework/True False Cases.md",
@@ -198,7 +199,6 @@
     "homework/Attacks/Threat Intel.md",
     "homework/Attacks/Witch, Sinkhole, Honeypot, Supply Chain.md",
     "homework/Attacks/Brute Force Attack.md",
-    "homework/Attacks/Botnets.md",
     "homework/Attacks",
     "Windows/Images/Pasted image 20250218164811.png",
     "Windows/Images/Pasted image 20250217125547.png",
