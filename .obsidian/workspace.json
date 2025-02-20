@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homework/True False Cases.md",
+                "file": "Elastic/Beats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "True False Cases"
+              "title": "Beats"
             }
           },
           {
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homework/True False Cases.md",
+                "file": "Elastic/Beats.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of True False Cases"
+              "title": "Outline of Beats"
             }
           }
         ],
@@ -180,6 +180,8 @@
   },
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
+    "homework/True False Cases.md",
+    "Elastic/Beats.md",
     "Pasted image 20250220114550.png",
     "Elastic/Alerts/12. Unusual Process For a Windows Host.md",
     "Elastic/Alerts/10. Anomalous Process For a Windows Population.md",
@@ -197,7 +199,6 @@
     "Elastic/Alerts/2. IPSEC NAT Traversal Port Activity.md",
     "Elastic/Alerts/1. Privileged Account Brute Force.md",
     "Elastic/Alerts",
-    "homework/True False Cases.md",
     "homework/Wireshark.md",
     "homework/Elastic Recording Notes.md",
     "Git Sync Repository.md",
@@ -220,7 +221,6 @@
     "Linux/Module 8 Disk Management and Run Levels/Images/Pasted image 20250129095642.png",
     "Linux/Module 8 Disk Management and Run Levels/Images",
     "Linux/Module 8 Disk Management and Run Levels",
-    "Windows/Images/Step 4 of Data Duplication.png",
     "extra",
     "extra/windows sa",
     "Windows/Images",
