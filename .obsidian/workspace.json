@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homework/True False Cases.md",
+                "file": "Elastic/Alerts/1. Privileged Account Brute Force.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "True False Cases"
+              "title": "1. Privileged Account Brute Force"
             }
           },
           {
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homework/True False Cases.md",
+                "file": "Elastic/Alerts/1. Privileged Account Brute Force.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of True False Cases"
+              "title": "Outline of 1. Privileged Account Brute Force"
             }
           }
         ],
@@ -180,8 +180,8 @@
   },
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
-    "Elastic/Zeek.md",
     "homework/True False Cases.md",
+    "Elastic/Zeek.md",
     "Elastic/Alerts/1. Privileged Account Brute Force.md",
     "Elastic/Alerts/2. IPSEC NAT Traversal Port Activity.md",
     "Elastic/ELK Example.md",
