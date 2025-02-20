@@ -1,0 +1,49 @@
+## [Unusual Process For a Windows Host](https://www.elastic.co/guide/en/security/current/unusual-process-for-a-windows-host.html)
+
+Identifies rare processes that do not usually run on individual hosts, which can indicate execution of unauthorized services, malware, or persistence mechanisms. Processes are considered rare when they only run occasionally as compared with other processes running on the host
+
+**Rule type**: machine_learning
+
+**Severity**: low
+
+**Risk score**: 21
+
+**Tags**:
+
+- Domain: Endpoint
+- OS: Windows
+- Use Case: Threat Detection
+- Rule Type: ML
+- Rule Type: Machine Learning
+- Tactic: Persistence
+- Resources: Investigation Guide
+
+## Investigation guide
+
+#### Triage and analysis
+
+**Investigating Unusual Process For a Windows Host**
+
+Searching for abnormal Windows processes is a good methodology to find potentially malicious activity within a network. Understanding what is commonly run within an environment and developing baselines for legitimate activity can help uncover potential malware and suspicious behaviors.
+
+This rule uses a machine learning job to detect a Windows process that is rare and unusual for an individual Windows host in your environment.
+
+### Possible investigation steps
+
+Investigate the process execution chain (parent process tree) for unknown processes. Examine their executable files for prevalence, whether they are located in expected locations, and if they are signed with valid digital signatures.
+
+If the parent process is a legitimate system utility or service, this could be related to software updates or system management. If the parent process is something user-facing like an Office application, this process could be more suspicious.
+
+Investigate the process metadata — such as the digital signature, directory, etc. — to obtain more context that can indicate whether the executable is associated with an expected software vendor or package.
+
+Investigate other alerts associated with the user/host during the past 48 hours.
+
+### Response and remediation
+
+Isolate the involved hosts to prevent further post-compromise behavior.
+
+If the triage identified malware, search the environment for additional compromised hosts.
+
+Implement temporary network rules, procedures, and segmentation to contain the malware.
+
+Stop suspicious processes.

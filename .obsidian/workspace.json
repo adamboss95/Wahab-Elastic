@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elastic/Alerts/7. Anomalous Windows Process Creation.md",
+                "file": "homework/Dmarc SPF DKIM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Anomalous Windows Process Creation"
+              "title": "Dmarc SPF DKIM"
+            }
+          },
+          {
+            "id": "5f1ec456c7aea874",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -141,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elastic/Alerts/7. Anomalous Windows Process Creation.md",
+                "file": "homework/Dmarc SPF DKIM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7. Anomalous Windows Process Creation"
+              "title": "Outline of Dmarc SPF DKIM"
             }
           }
         ],
@@ -170,17 +180,20 @@
   },
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
+    "Elastic/Alerts/Untitled.md",
+    "Elastic/Alerts/11. Unusual Windows Path Activity.md",
+    "Alert Descriptions, Investigation & Mitigation.md",
+    "Elastic.md",
+    "Elastic/Alerts/10. Anomalous Process For a Windows Population.md",
+    "Elastic/Alerts/9. Multiple Alerts in Different ATT&CK Tactics on a Single Host.md",
+    "Elastic/Alerts/8. Unusual Hour for a User to Logon.md",
+    "Elastic/Alerts/7. Anomalous Windows Process Creation.md",
     "Elastic/Alerts/6. Spike in Network Traffic.md",
     "Elastic/Alerts/5. SMTP on Port 26 TCP.md",
     "Elastic/Alerts/4. Rare User Logon.md",
     "Elastic/Alerts/3. Unusual Windows Username.md",
     "Elastic/Alerts/2. IPSEC NAT Traversal Port Activity.md",
     "Elastic/Alerts/1. Privileged Account Brute Force.md",
-    "Elastic/Alerts/11. Unusual Windows Path Activity.md",
-    "Elastic/Alerts/10. Anomalous Process For a Windows Population.md",
-    "Elastic/Alerts/9. Multiple Alerts in Different ATT&CK Tactics on a Single Host.md",
-    "Elastic/Alerts/8. Unusual Hour for a User to Logon.md",
-    "Elastic/Alerts/7. Anomalous Windows Process Creation.md",
     "Elastic/Alerts",
     "homework/True False Cases.md",
     "homework/Wireshark.md",
@@ -195,9 +208,6 @@
     "homework/Attacks/Ransomware.md",
     "homework/Attacks/Cyber Kill Chain.md",
     "homework/Attacks/MITRE Attack.md",
-    "homework/Attacks/Threat Intel.md",
-    "homework/Attacks/Witch, Sinkhole, Honeypot, Supply Chain.md",
-    "homework/Attacks/Brute Force Attack.md",
     "homework/Attacks",
     "Windows/Images/Pasted image 20250218164811.png",
     "Windows/Images/Pasted image 20250217125547.png",
