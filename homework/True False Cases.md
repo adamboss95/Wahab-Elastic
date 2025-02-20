@@ -63,10 +63,12 @@
 
 
 
-| Positive |     |
-| -------- | --- |
-|          |     |
-|          |     |
+| True Positive  | Rule Matched, Attack Present       |
+| -------------- | ---------------------------------- |
+| True Negative  | No Rule Matched, No Attack Present |
+| False Positive | No Rule Matched, Attack Present    |
+| False Negative | No Rule Matched, Attack Present    |
+|                |                                    |
 
 
 
