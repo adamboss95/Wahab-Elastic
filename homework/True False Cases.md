@@ -63,13 +63,20 @@
 
 
 
-| True Positive  | Rule Matched, Attack Present       |
+
+| Scenario       | Outcome                            |
 | -------------- | ---------------------------------- |
+| True Positive  | Rule Matched, Attack Present       |
 | True Negative  | No Rule Matched, No Attack Present |
 | False Positive | No Rule Matched, Attack Present    |
 | False Negative | No Rule Matched, Attack Present    |
-|                |                                    |
 
+|Scenario|Rule Matches Attack?|Attack Present?|Example|Outcome|
+|---|---|---|---|---|
+|**True Positive**|Yes|Yes|Detecting actual malware|Valid alert, appropriate response|
+|**True Negative**|No|No|Normal network traffic|Valid absence of alert|
+|**False Positive**|Yes|No|Legitimate activity flagged as suspicious|False alarm, unnecessary response|
+|**False Negative**|No|Yes|Undetected malware due to rule limitations|Undetected attack, potential harm|
 
 
 ### True Positive
