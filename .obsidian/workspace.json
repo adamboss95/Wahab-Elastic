@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homework/Dmarc SPF DKIM.md",
+                "file": "homework/True False Cases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dmarc SPF DKIM"
+              "title": "True False Cases"
             }
           },
           {
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homework/Dmarc SPF DKIM.md",
+                "file": "homework/True False Cases.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dmarc SPF DKIM"
+              "title": "Outline of True False Cases"
             }
           }
         ],
@@ -180,11 +180,13 @@
   },
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
-    "Elastic/Alerts/Untitled.md",
+    "Pasted image 20250220114550.png",
+    "Elastic/Alerts/12. Unusual Process For a Windows Host.md",
+    "Elastic/Alerts/10. Anomalous Process For a Windows Population.md",
+    "homework/Dmarc SPF DKIM.md",
     "Elastic/Alerts/11. Unusual Windows Path Activity.md",
     "Alert Descriptions, Investigation & Mitigation.md",
     "Elastic.md",
-    "Elastic/Alerts/10. Anomalous Process For a Windows Population.md",
     "Elastic/Alerts/9. Multiple Alerts in Different ATT&CK Tactics on a Single Host.md",
     "Elastic/Alerts/8. Unusual Hour for a User to Logon.md",
     "Elastic/Alerts/7. Anomalous Windows Process Creation.md",
@@ -206,8 +208,6 @@
     "homework/KDC.md",
     "homework/s.md",
     "homework/Attacks/Ransomware.md",
-    "homework/Attacks/Cyber Kill Chain.md",
-    "homework/Attacks/MITRE Attack.md",
     "homework/Attacks",
     "Windows/Images/Pasted image 20250218164811.png",
     "Windows/Images/Pasted image 20250217125547.png",

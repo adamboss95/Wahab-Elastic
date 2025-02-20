@@ -60,6 +60,16 @@
 
 
 # Cyber Security
+
+
+
+| Positive |     |
+| -------- | --- |
+|          |     |
+|          |     |
+
+
+
 ### True Positive
 
 - **Definition**: A security alert or detection that correctly identifies a real threat.
@@ -97,3 +107,5 @@
 | **False Positive** | Incorrectly flagging benign activity as a threat | Flagging a legitimate software update as malware |
 | **False Negative** | Failing to detect a real threat                  | Missing an actual malware attack                 |
 
+
+![[Pasted image 20250220114550.png]]
