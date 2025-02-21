@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homework/Terms in CyberSecurity.md",
+                "file": "homework/IIS and Apache.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terms in CyberSecurity"
+              "title": "IIS and Apache"
             }
           },
           {
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homework/Terms in CyberSecurity.md",
+                "file": "homework/IIS and Apache.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Terms in CyberSecurity"
+              "title": "Outline of IIS and Apache"
             }
           }
         ],
@@ -180,8 +180,9 @@
   },
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
-    "Elastic/ELK.md",
     "homework/Terms in CyberSecurity.md",
+    "homework/IIS and Apache.md",
+    "Elastic/ELK.md",
     "Elastic/Beats.md",
     "Elastic/Soulat.md",
     "Pasted image 20250220162344.png",
@@ -209,7 +210,6 @@
     "Git Sync Repository.md",
     "Elastic",
     "homework/Attacks/Leak Internet.md",
-    "Windows/8. Managing Storage Area Networks(SAN) and Failover Clustering.md",
     "homework/Attacks",
     "Windows/Images/Pasted image 20250218164811.png",
     "Windows/Images/Pasted image 20250217125547.png",
