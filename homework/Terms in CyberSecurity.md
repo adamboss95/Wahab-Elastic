@@ -12,3 +12,12 @@ In the context of cybersecurity and software development, a **sandbox** is a con
 
 
 ### Regex
+
+**Regex** (Regular Expressions) is about defining a pattern to match specific text sequences, and then performing actions based on those matches. 
+
+This "do this" can be a range of actions like:
+
+- Search: Finding occurrences of the pattern within text.
+- Match: Checking if the entire text matches the pattern.
+- Replace: Substituting matched parts of the text with something else.
+- Extract: Pulling out parts of the text that match the pattern.
