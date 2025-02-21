@@ -11,3 +11,7 @@
 3. **Auditbeat**: Gathers audit data from Linux systems, such as file access, system calls, and user activities. It's great for security and compliance monitoring.
     
 4. **Winlogbeat**: Collects Windows event logs and sends them to Elasticsearch. It's specifically designed for Windows environments and helps in monitoring and analyzing Windows event logs.
+
+5. **Metric Beat**: Metric
+
+6. **Heart Beat**: Uptime Monitoring

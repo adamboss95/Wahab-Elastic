@@ -181,6 +181,8 @@
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
     "Elastic/ELK Example.md",
+    "homework/Terms in CyberSecurity.md",
+    "Elastic/Beats.md",
     "Elastic/Soulat.md",
     "Pasted image 20250220162344.png",
     "Elastic/Alerts/1. Privileged Account Brute Force.md",
@@ -189,7 +191,6 @@
     "homework/True False Cases.md",
     "Elastic/Zeek.md",
     "Elastic/Alerts/2. IPSEC NAT Traversal Port Activity.md",
-    "Elastic/Beats.md",
     "Elastic/Alerts/12. Unusual Process For a Windows Host.md",
     "Elastic/Alerts/10. Anomalous Process For a Windows Population.md",
     "homework/Dmarc SPF DKIM.md",
