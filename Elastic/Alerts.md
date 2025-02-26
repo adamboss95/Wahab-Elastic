@@ -2,11 +2,11 @@
 
 **Discription**: `agent.name` signifies the name or identifier of the agent responsible for generating the log event
 
-
+**Example**: If you have multiple Filebeat instances running, you might name them `filebeat_instance_1` and `filebeat_instance_2` to differentiate their data.
 
 ### agent.type
 
-`agent.type` field specifies the type of agent that collected or created the event. This field helps in identifying the nature and origin of the data collected, making it easier to manage and analyze different types of data within the Elastic Stack.
+**Discription**: `agent.type` field specifies the type of agent that collected or created the event. This field helps in identifying the nature and origin of the data collected, making it easier to manage and analyze different types of data within the Elastic Stack.
 
 It can be from the type below:
 - `filebeat`: Used for Filebeat agents that collect and ship log files.
@@ -15,6 +15,8 @@ It can be from the type below:
 - `packetbeat`: Used for Packetbeat agents that capture and analyze network traffic.
 - `auditbeat`: Used for Auditbeat agents that track and report on user activity and system integrity.
 - `winlogbeat`: Used for Winlogbeat agents that collect Windows event logs.
+
+**Example**: `agent.type: "metricbeat"`
 ### event.action
 The action captured by the event.
 
