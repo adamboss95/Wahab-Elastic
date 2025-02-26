@@ -1,26 +1,96 @@
 ### agent.name
 
-- **signifies the name or identifier of the agent responsible for generating the log event**
+`agent.name` signifies the name or identifier of the agent responsible for generating the log event
 ### agent.type
-**always stays the same and should be given by the agent used**
+
+`agent.type` field specifies the type of agent that collected or created the event. This field helps in identifying the nature and origin of the data collected, making it easier to manage and analyze different types of data within the Elastic Stack.
+
+It can be from the type below:
+- `filebeat`: Used for Filebeat agents that collect and ship log files.
+- `metricbeat`: Used for Metricbeat agents that collect system and service metrics.
+- `heartbeat`: Used for Heartbeat agents that monitor system availability.
+- `packetbeat`: Used for Packetbeat agents that capture and analyze network traffic.
+- `auditbeat`: Used for Auditbeat agents that track and report on user activity and system integrity.
+- `winlogbeat`: Used for Winlogbeat agents that collect Windows event logs.
 ### event.action
+The action captured by the event.
 
-### event.code
+### `event.code`
 
-### event.outcome
+**Description**: This field contains a specific code that uniquely identifies the type of event that occurred. It is used to categorize and differentiate various events, such as security incidents, errors, or system actions.
 
-### host.hostname
+**Example**: A login failure might be represented by the code `4625` in Windows Event Logs.
 
-### host.ip
+### `event.outcome`
 
-### host.os.family
+**Description**: Indicates the result of the event, specifying whether it was successful, failed, or resulted in an unknown outcome. This field helps in quickly assessing the nature of the event.
 
-### kibana.alert.rule.name
+**Example**: `success`, `failure`, `unknown`.
 
-### kibana.alert.threat.tactic.name
+### `host.hostname`
 
-### kibana threat technique
+**Description**: The hostname of the machine on which the event occurred. This helps in identifying the specific host involved in generating the event.
 
-### message
+**Example**: `webserver01`, `database-server`.
 
-### related.ip
+### `host.ip`
+
+**Description**: The IP address of the host where the event originated. It provides additional context for network-related events and helps in tracing the source.
+
+**Example**: `192.168.1.10`, `2001:0db8:85a3:0000:0000:8a2e:0370:7334`.
+
+### `host.os.family`
+
+**Description**: Describes the family of the operating system running on the host. This field categorizes the OS into broader groups such as `Windows`, `Linux`, or `macOS`.
+
+**Example**: `Windows`, `Linux`, `macOS`.
+
+### `kibana.alert.rule.name`
+
+**Description**: The name of the rule in Kibana that triggered the alert. This helps in identifying which specific detection rule caused the alert to be generated.
+
+**Example**: `Unauthorized Access Attempt`, `High CPU Usage Alert`.
+
+### `kibana.alert.original_event.category`
+
+**Description**: The category of the original event that led to the generation of the alert. This categorization helps in understanding the nature of the event that triggered the alert.
+
+**Example**: `authentication`, `process`, `network`.
+
+### `kibana.alert.rule.threat.tactic.name`
+
+**Description**: The name of the MITRE ATT&CK tactic associated with the rule that triggered the alert. This provides context about the high-level objective of the adversary's actions.
+
+**Example**: `Privilege Escalation`, `Initial Access`.
+
+### `kibana.alert.rule.threat.technique`
+
+**Description**: The specific MITRE ATT&CK technique associated with the rule that triggered the alert. This provides detailed insight into the methods used by the adversary.
+
+**Example**: `T1078 - Valid Accounts`, `T1059 - Command and Scripting Interpreter`.
+
+### `message`
+
+**Description**: A textual description of the event, providing detailed information about what happened. This field is often used to store the raw log message.
+
+**Example**: `User 'admin' failed to log in from IP address 192.168.1.100`.
+
+### `related.ip`
+
+**Description**: Contains IP addresses that are related to the event, such as source, destination, or intermediary IPs involved in the event.
+
+**Example**: `[192.168.1.100, 10.0.0.1]`.
+
+### `winlog.event_data.status`
+
+**Description**: Provides status information about the Windows event, indicating whether the event resulted in success, failure, or other status codes specific to the event type.
+
+**Example**: `0x0` (success), `0xC000006D` (failure).
+
+### `winlog.event_data.substatus`
+
+**Description**: Additional substatus information related to the Windows event, providing more granular details about the outcome of the event.
+
+**Example**: `0xC0000064` (user name does not exist), `0xC000006A` (incorrect password).
+
+These detailed explanations should give you a clearer understanding of the tags used in Elastic and how they can be leveraged for better data management and analysis. If you have any more questions or need further details, feel free to ask!
