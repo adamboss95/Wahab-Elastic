@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homework/Attacks/MITRE Attack.md",
+                "file": "homework/Exploit Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MITRE Attack"
+              "title": "Exploit Tools"
             }
           },
           {
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homework/Attacks/MITRE Attack.md",
+                "file": "homework/Exploit Tools.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MITRE Attack"
+              "title": "Outline of Exploit Tools"
             }
           }
         ],
@@ -180,6 +180,13 @@
   },
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
+    "Courses/Courses to do.md",
+    "homework/Exploit Tools.md",
+    "Untitled",
+    "homework/Attacks/MITRE Attack.md",
+    "Courses",
+    "homework/Attacks/Ransomware.md",
+    "homework/Attacks/Cyber Kill Chain.md",
     "Elastic/Tags Elastic.md",
     "Elastic/Untitled.md",
     "Elastic/Soulat.md",
@@ -203,11 +210,6 @@
     "Elastic/Alerts/10. Anomalous Process For a Windows Population.md",
     "homework/Dmarc SPF DKIM.md",
     "Elastic/Alerts/11. Unusual Windows Path Activity.md",
-    "Elastic.md",
-    "Elastic/Alerts/9. Multiple Alerts in Different ATT&CK Tactics on a Single Host.md",
-    "Elastic/Alerts/8. Unusual Hour for a User to Logon.md",
-    "Elastic/Alerts/7. Anomalous Windows Process Creation.md",
-    "Elastic/Alerts/6. Spike in Network Traffic.md",
     "Elastic/Alerts",
     "Elastic",
     "homework/Attacks",
@@ -223,8 +225,6 @@
     "Linux/Module 8 Disk Management and Run Levels",
     "extra",
     "extra/windows sa",
-    "Windows/Images",
-    "Windows/Module 2/Images",
-    "Windows/Module 4 Managing DHCP and DNS"
+    "Windows/Images"
   ]
 }
