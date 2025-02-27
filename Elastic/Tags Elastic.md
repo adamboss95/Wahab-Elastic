@@ -58,7 +58,7 @@ The action captured by the event.
 
 ### kibana.alert.original_event.category
 
-**Description**: `kibana.alert.original_event.category` the category of the original event that led to the generation of the alert. This categorization helps in understanding the nature of the event that triggered the alert.
+**Description**: `kibana.alert.original_event.category` is the category of the original event that led to the generation of the alert. This categorization helps in understanding the nature of the event that triggered the alert.
 
 **Example**: `authentication`, `process`, `network`.
 
