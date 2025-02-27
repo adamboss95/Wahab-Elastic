@@ -11,10 +11,14 @@
             "id": "eafd89ceb456e615",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Elastic/Tags Elastic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tags Elastic"
             }
           },
           {
@@ -147,12 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Elastic/Tags Elastic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Tags Elastic"
             }
           }
         ],
@@ -175,8 +180,8 @@
   },
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
-    "Elastic/Alerts.md",
     "Elastic/Untitled.md",
+    "Elastic/Tags Elastic.md",
     "Elastic/Soulat.md",
     "homework/Notes.md",
     "homework/IIS and Apache.md",
