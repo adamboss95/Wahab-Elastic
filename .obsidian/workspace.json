@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homework/Exploit Tools.md",
+                "file": "Elastic/Tags Elastic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exploit Tools"
+              "title": "Tags Elastic"
             }
           },
           {
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homework/Exploit Tools.md",
+                "file": "Elastic/Tags Elastic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exploit Tools"
+              "title": "Outline of Tags Elastic"
             }
           }
         ],
@@ -180,8 +180,9 @@
   },
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
-    "Courses/Courses to do.md",
+    "Elastic/Beats.md",
     "homework/Exploit Tools.md",
+    "Courses/Courses to do.md",
     "Untitled",
     "homework/Attacks/MITRE Attack.md",
     "Courses",
@@ -198,7 +199,6 @@
     "homework/elastic architecture.md",
     "homework/Elastic Recording Notes.md",
     "homework/Hypervisor.md",
-    "Elastic/Beats.md",
     "Elastic/ELK.md",
     "Pasted image 20250220162344.png",
     "Elastic/Alerts/1. Privileged Account Brute Force.md",

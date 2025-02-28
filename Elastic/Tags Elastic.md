@@ -10,7 +10,7 @@
 
 It can be from the type below:
 - `filebeat`: For Filebeat agents collecting and shipping log files.
-- `metricbeat`: For Metricbeat agents collecting system and service metrics.
+- `metricbeat`: For Metricbeat agents collecting system and service metrics. such as CPU usage, memory utilization, disk I/O, network throughput, and application response times.
 - `heartbeat`: For Heartbeat agents monitoring system availability.
 - `packetbeat`: For Packetbeat agents capturing and analyzing network traffic.
 - `auditbeat`: For Auditbeat agents tracking user activity and system integrity.
