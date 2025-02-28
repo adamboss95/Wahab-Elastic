@@ -11,7 +11,7 @@
 It can be from the type below:
 - `filebeat`: For Filebeat agents collecting and shipping log files.
 - `metricbeat`: For Metricbeat agents collecting system and service metrics. such as CPU usage, memory utilization, disk I/O, network throughput, and application response times.
-- `heartbeat`: For Heartbeat agents monitoring system availability.
+- `heartbeat`: For Heartbeat agents uptime monitoring. It helps you track the availability of services and endpoints, providing insights into their status and performance.
 - `packetbeat`: For Packetbeat agents capturing and analyzing network traffic.
 - `auditbeat`: For Auditbeat agents tracking user activity and system integrity.
 - `winlogbeat`: For Winlogbeat agents collecting Windows event logs.
