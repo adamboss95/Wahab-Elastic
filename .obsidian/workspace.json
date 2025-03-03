@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elastic/Beats.md",
+                "file": "Elastic/Terms in CyberSecurity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beats"
+              "title": "Terms in CyberSecurity"
             }
           },
           {
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elastic/Beats.md",
+                "file": "Elastic/Terms in CyberSecurity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Beats"
+              "title": "Outline of Terms in CyberSecurity"
             }
           }
         ],
@@ -180,6 +180,7 @@
   },
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
+    "Elastic/Beats.md",
     "homework/Apache Working.md",
     "homework/IIS and Apache.md",
     "homework/IOA & IOC.md",
@@ -195,7 +196,6 @@
     "Elastic/Terms in CyberSecurity.md",
     "Elastic/Critical Windows Events Analysis.md",
     "Elastic/Tags Elastic.md",
-    "Elastic/Beats.md",
     "homework/Exploit Tools.md",
     "Courses/Courses to do.md",
     "Untitled",
