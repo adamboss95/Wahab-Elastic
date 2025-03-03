@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homework/Apache Working.md",
+                "file": "Elastic/Beats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apache Working"
+              "title": "Beats"
             }
           },
           {
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homework/Apache Working.md",
+                "file": "Elastic/Beats.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Apache Working"
+              "title": "Outline of Beats"
             }
           }
         ],
@@ -180,8 +180,8 @@
   },
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
-    "homework/IIS and Apache.md",
     "homework/Apache Working.md",
+    "homework/IIS and Apache.md",
     "homework/IOA & IOC.md",
     "homework/KDC.md",
     "homework/NAT.md",
