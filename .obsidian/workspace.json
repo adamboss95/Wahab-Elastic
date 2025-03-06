@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elastic/Terms in CyberSecurity.md",
+                "file": "homework/Alien Vault.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terms in CyberSecurity"
+              "title": "Alien Vault"
             }
           },
           {
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elastic/Terms in CyberSecurity.md",
+                "file": "homework/Alien Vault.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Terms in CyberSecurity"
+              "title": "Outline of Alien Vault"
             }
           }
         ],
@@ -180,6 +180,8 @@
   },
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
+    "Elastic/Terms in CyberSecurity.md",
+    "homework/Alien Vault.md",
     "Elastic/Beats.md",
     "homework/Apache Working.md",
     "homework/IIS and Apache.md",
@@ -193,7 +195,6 @@
     "homework/Task 2.md",
     "homework/Task 3.md",
     "Elastic/True False Cases 1.md",
-    "Elastic/Terms in CyberSecurity.md",
     "Elastic/Critical Windows Events Analysis.md",
     "Elastic/Tags Elastic.md",
     "homework/Exploit Tools.md",
@@ -207,7 +208,6 @@
     "Elastic/Soulat.md",
     "homework/Terms in CyberSecurity.md",
     "Elastic/Zeek.md",
-    "homework/DMZ.md",
     "Pasted image 20250220162344.png",
     "Pasted image 20250220114550.png",
     "Elastic/Alerts",
