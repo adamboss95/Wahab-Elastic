@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elastic/True False Cases 1.md",
+                "file": "Elastic/Hashes (md5, sha128, sha256) Collisions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "True False Cases 1"
+              "title": "Hashes (md5, sha128, sha256) Collisions"
             }
           },
           {
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elastic/True False Cases 1.md",
+                "file": "Elastic/Hashes (md5, sha128, sha256) Collisions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of True False Cases 1"
+              "title": "Outline of Hashes (md5, sha128, sha256) Collisions"
             }
           }
         ],
@@ -180,6 +180,11 @@
   },
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
+    "Elastic/True False Cases 1.md",
+    "Elastic/Indices in Kibana and Elasticsearch.md",
+    "Elastic/Hashes (md5, sha128, sha256) Collisions.md",
+    "Elastic/Fields in Discover.md",
+    "Elastic/Detection & Response ( EDR, MDR & XDR ).md",
     "homework/Alien Vault.md",
     "Elastic/Terms in CyberSecurity.md",
     "Elastic/Beats.md",
@@ -194,7 +199,6 @@
     "homework/Task 1.md",
     "homework/Task 2.md",
     "homework/Task 3.md",
-    "Elastic/True False Cases 1.md",
     "Elastic/Critical Windows Events Analysis.md",
     "Elastic/Tags Elastic.md",
     "homework/Exploit Tools.md",
@@ -204,10 +208,6 @@
     "Courses",
     "homework/Attacks/Ransomware.md",
     "homework/Attacks/Cyber Kill Chain.md",
-    "Elastic/Untitled.md",
-    "Elastic/Soulat.md",
-    "homework/Terms in CyberSecurity.md",
-    "Elastic/Zeek.md",
     "Pasted image 20250220162344.png",
     "Pasted image 20250220114550.png",
     "Elastic/Alerts",
