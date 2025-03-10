@@ -1,4 +1,0 @@
-
-
-OTX key
-0c5175afa141e9143f3aad2c4e28042fba0bab2fac1cb257756beed42ced73f7
