@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homework/Compliances.md",
+                "file": "homework/Threat Intel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compliances"
+              "title": "Threat Intel"
             }
           },
           {
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homework/Compliances.md",
+                "file": "homework/Threat Intel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Compliances"
+              "title": "Outline of Threat Intel"
             }
           }
         ],
@@ -180,15 +180,15 @@
   },
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
-    "Courses/Courses to do.md",
     "homework/Compliances.md",
+    "Courses/Courses to do.md",
     "Elastic/Extra SIEMS Notes/Indices in Elasticsearch.md",
     "Elastic/Extra SIEMS Notes/Fields in Discover.md",
     "Elastic/Zeek.md",
     "Elastic/Extra SIEMS Notes/Common Investigation Fields.md",
     "Elastic/Untitled.md",
     "homework/RDP.md",
-    "homework/Attacks/Threat Intel.md",
+    "homework/Threat Intel.md",
     "Elastic/Alien Vault.md",
     "Elastic/Terms in CyberSecurity.md",
     "Elastic/Extra SIEMS Notes/True False Cases 1.md",

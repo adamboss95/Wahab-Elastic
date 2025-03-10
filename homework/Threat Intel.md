@@ -19,3 +19,5 @@
 - Google Safe Browsing
 - Cisco Talos
 - Hybrid Analysic
+- greynoise
+- 
