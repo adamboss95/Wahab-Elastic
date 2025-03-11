@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homework/Compliances.md",
+                "file": "Elastic/Extra SIEMS Notes/Beats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compliances"
+              "title": "Beats"
             }
           },
           {
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homework/Compliances.md",
+                "file": "Elastic/Extra SIEMS Notes/Beats.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Compliances"
+              "title": "Outline of Beats"
             }
           }
         ],
@@ -180,6 +180,8 @@
   },
   "active": "eafd89ceb456e615",
   "lastOpenFiles": [
+    "Elastic/Extra SIEMS Notes/Indices in Elasticsearch.md",
+    "homework/Compliances.md",
     "Elastic/Extra SIEMS Notes/True False Cases.md",
     "Elastic/Extra SIEMS Notes/Subnetting.md",
     "Elastic/Extra SIEMS Notes/Detection & Response ( EDR, MDR & XDR ).md",
@@ -193,9 +195,7 @@
     "homework/Login Failures.md",
     "Elastic/Extra SIEMS Notes/Ingress vs Egress.md",
     "homework/Threat Intel.md",
-    "homework/Compliances.md",
     "Courses/Courses to do.md",
-    "Elastic/Extra SIEMS Notes/Indices in Elasticsearch.md",
     "Elastic/Extra SIEMS Notes/Fields in Discover.md",
     "Elastic/Zeek.md",
     "Elastic/Extra SIEMS Notes/Common Investigation Fields.md",
