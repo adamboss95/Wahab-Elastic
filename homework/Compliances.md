@@ -31,6 +31,12 @@
   - NIST Cybersecurity Framework (CSF): Provides a policy framework of computer security guidance for how private sector organizations can assess and improve their ability to prevent, detect, and respond to cyber attacks.
   - NIST SP 800-53: Provides a catalog of security and privacy controls for federal information systems and organizations.
   - NIST SP 800-171: Provides guidelines for protecting Controlled Unclassified Information (CUI) in non-federal systems.
+- Components
+	- Identify
+	- Protect
+	- Detect
+	- Respond
+	- Recover
 - **Benefits:** Enhances security posture, helps meet regulatory requirements, and builds trust.
 
 ---
